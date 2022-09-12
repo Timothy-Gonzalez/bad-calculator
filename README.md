@@ -1,6 +1,6 @@
 # bad-calculator
 
-My first JS project.
+My first JS project, from 2018.
 This is archived for the sake of reminding myself how far I've come,
 and how everyone can do anything with the right resources.
 
